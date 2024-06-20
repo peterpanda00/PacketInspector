@@ -14,7 +14,7 @@ def get_user_input():
     return tshark_interface, tshark_filter, pcap_file, networkminer_path, capture_duration
 
 def capture_packets(interface, capture_filter, pcap_output):
-    tshark_path = r'C:\Program Files\Wireshark\tshark.exe'  # Replace with your actual path to tshark.exe
+    tshark_path = r'C:\\Users\\Jill\\Desktop\\PacketInspector\\Wireshark\\tshark.exe'  # Replace with your actual path to tshark.exe
     tshark_command = [
         tshark_path,
         '-i', interface,
