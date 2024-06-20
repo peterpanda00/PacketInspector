@@ -23,7 +23,7 @@ PacketInspector is a tool designed to automate the process of capturing and extr
    - Download and install Wireshark, which includes `tshark`: https://www.wireshark.org/download.html
 
 3. **Set Up NetworkMiner CLI**
-   - Ensure you have NetworkMiner CLI executable and note its path.
+   - Ensure you have NetworkMiner CLI executable and note its path. Download from here: https://github.com/mammo0/networkminer-cli
 
 4. **Clone or Download PacketInspector**
    - Clone the repository or download the source code to your local machine.
